@@ -69,6 +69,11 @@
 
 ---
 
-<div align="center">
-  <sub>🩸 “Le code est mon art, le terminal ma toile.” 🩸</sub>
-</div>
+## 🛠️ Badges
+
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-1e1e1e?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-1e1e1e?style=for-the-badge&logo=visualstudio&logoColor=white)
