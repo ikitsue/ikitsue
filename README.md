@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Salut, moi c’est **Ikitsue**
 
-<!--
-**ikitsue/ikitsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Je crée des **sites web**, des **applications** et même des **mods Minecraft**.  
+🔥 Je code pour **l’amour du code**, et j’aime apprendre en construisant.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 À propos
+- 🇫🇷 Français
+- 🌐 Je parle aussi **anglais** et **russe**
+- 🐍 Je code majoritairement en **Python**
+- ⚡ Je code aussi en **JavaScript**
+
+---
+
+## 🚀 Technologies
+- **Langages** : Python, JavaScript
+- **Web** : HTML, CSS, Node / Express
+- **Modding** : Minecraft (mods et projets perso)
+- **Autres** : Git, projets perso + expérimentation
+
+---
+
+## 📊 Stats GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikitsue&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikitsue&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Liens
+🌐 https://lnk.bio/ikitsue
+
+---
+
+Merci d’être passé 🙌
