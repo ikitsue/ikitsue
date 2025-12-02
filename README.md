@@ -66,9 +66,10 @@
 
 ## 🌐 Liens
 🔗 https://lnk.bio/ikitsue
+
 [![LinkBio](https://img.shields.io/badge/Link.bio-1e1e1e?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
 [![Discord](https://img.shields.io/badge/Discord-1e1e1e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
-[![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue-9211)
+[![Instagram](https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
 [![TikTok](https://img.shields.io/badge/TikTok-1e1e1e?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
 [![X (Twitter)](https://img.shields.io/badge/X-1e1e1e?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
 [![Steam](https://img.shields.io/badge/Steam-1e1e1e?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
