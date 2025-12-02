@@ -17,7 +17,7 @@
 ---
 
 ## 🖤 About Me
-- 🐺 Français — je parle **English** et **Русский**
+- 🇫🇷 Français — je parle **English** et **Русский**
 - 💻 Je crée des **sites**, des **apps** et des **mods Minecraft**
 - 🐍 Je code principalement en **Python**
 - ⚡ J’utilise aussi **JavaScript / JSX**
