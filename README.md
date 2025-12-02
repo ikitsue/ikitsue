@@ -12,8 +12,6 @@
 
 🌙 **Développeur de l’Ombre — Créateur de Mods — Artisan du Code**
 
-🩸 *Codeur pour l’amour du code, pas pour la gloire.*
-
 </div>
 
 ---
