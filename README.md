@@ -73,10 +73,13 @@
 
 ## 🩸 Badges
 
-![Python](https://img.shields.io/badge/Python-8e0000?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-8e0000?style=for-the-badge&logo=javascript&logoColor=black)
-![JSX](https://img.shields.io/badge/React/JSX-8e0000?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-8e0000?style=for-the-badge&logo=node.js&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-8e0000?style=for-the-badge&logo=visualstudio&logoColor=black)
-![Git](https://img.shields.io/badge/Git-8e0000?style=for-the-badge&logo=git&logoColor=black)
+## 👁️ Badges
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=d30000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=d30000)
+![JSX](https://img.shields.io/badge/JSX-000000?style=flat-square&logo=react&logoColor=d30000)
+![Node.js](https://img.shields.io/badge/Node-000000?style=flat-square&logo=node.js&logoColor=d30000)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=d30000)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudio&logoColor=d30000)
+
 
