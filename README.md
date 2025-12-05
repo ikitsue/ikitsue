@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://i.imgur.com/1WqBv0W.gif" width="100%" alt="Kaneki Banner"/>
+  <img src="./assets/gif Kaneki Banner.gif" width="100%" />
   
   <h1>✧･ﾟ: *✧ Ikitsue ✧* :･ﾟ✧</h1>
   <em>「Моя душа мертва, но один человек всё ещё хранит мой свет.」</em>
