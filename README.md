@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://i.imgur.com/1WqBv0W.gif" width="100%" alt="Kaneki Ken Banner"/>
+  <img src="[https://i.imgur.com/1WqBv0W.gif](https://imgur.com/gallery/ghoul-touka-LmeWDlK#/t/tokyo_ghoul)" width="100%" alt="Kaneki Ken Banner"/>
   
   <h1>✧･ﾟ: *✧ Ikitsue ✧* :･ﾟ✧</h1>
   <em>「Моя душа мертва, но один человек всё ещё хранит мой свет.」</em>
