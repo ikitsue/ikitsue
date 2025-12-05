@@ -37,7 +37,8 @@
 ## 🕷️ Projets phares
 | 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
-| **Mod Minecraft ELDEN RING** | Bientôt terminé (mais je ne sais pas faire de modèles, donc ça rallonge le développement). | 🕮 |
+| **Mod Minecraft ELDEN RING** | Bientôt terminé (mais je ne sais pas faire de modèles 3D,
+                                donc ça rallonge le développement). | 🕮 |
 | **Site d’achat de bots Discord** | Il ne reste plus qu’à le mettre en ligne. | 🕮 |
 | **Toutes sortes de bots Discord** | Tous en cours de développement. | 🕮 |
 
