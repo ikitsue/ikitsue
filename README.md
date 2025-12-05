@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://tenor.com/view/myfanboyss-gif-13099727908106383851" width="420px" alt="Kaneki Ken Banner"/>
+  <img src="https://i.imgur.com/1WqBv0W.gif" width="100%" alt="Kaneki Ken Banner"/>
   
   <h1>✧･ﾟ: *✧ Ikitsue ✧* :･ﾟ✧</h1>
   <em>「Моя душа мертва, но один человек всё ещё хранит мой свет.」</em>
@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-
-🌙 **Développeur de l’Ombre — Créateur de Mods — Artisan du Code**
+  
+🌙 <strong>Développeur de l’Ombre — Créateur de Mods — Artisan du Code</strong>
 
 </div>
 
@@ -28,7 +28,7 @@
 ## 🩸 Stack Technique
 | Catégorie | Outils |
 |---|---|
-| 🌐 Front-end | HTML • CSS • js • jsx |
+| 🌐 Front-end | HTML • CSS • JS • JSX |
 | ⚙️ Back-end | Python • Node.js |
 | 🛠️ Minecraft | Mods / Scripts / Expérimentations |
 | 🔧 Outils | Git • VSCode |
@@ -54,16 +54,6 @@
 
 ---
 
-## 🧬 Stats GitHub
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikitsue&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikitsue&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Liens
 🔗 https://lnk.bio/ikitsue
 
@@ -84,5 +74,3 @@
 ![Node.js](https://img.shields.io/badge/Node-000000?style=flat-square&logo=node.js&logoColor=d30000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=d30000)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudio&logoColor=d30000)
-
-
