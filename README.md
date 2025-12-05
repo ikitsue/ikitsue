@@ -34,12 +34,12 @@
 
 ---
 
-## 🕷️ Projets phare
-| 🎯 Projet | 📜 Description | 🔥 Status |
+## 🕷️ Projets phares
+| 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
-| **Projet 1** | Coming soon | 🕮 |
-| **Projet 2** | Coming soon | 🕮 |
-| **Projet 3** | Coming soon | 🕮 |
+| **Mod Minecraft ELDEN RING** | Bientôt terminé (mais je ne sais pas faire de modèles, donc ça rallonge le développement). | 🕮 |
+| **Site d’achat de bots Discord** | Il ne reste plus qu’à le mettre en ligne. | 🕮 |
+| **Toutes sortes de bots Discord** | Tous en cours de développement. | 🕮 |
 
 ---
 
@@ -48,6 +48,7 @@
 |---|---|
 | 🐍 Python | ⭐⭐✰✰✰ |
 | ⚡ JavaScript / JSX | ⭐⭐⭐⭐☆ |
+| 🌐 HTML / CSS | ⭐⭐⭐⭐☆ |
 | 🛠️ Modding | ⭐⭐✰✰✰ |
 | 🌑 Fullstack | ⭐⭐✰✰✰ |
 
