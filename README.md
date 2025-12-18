@@ -10,7 +10,7 @@
 
 <div align="center">
   
-🌙 <strong>Développeur de l’Ombre — Créateur de Mods — Artisan du Code</strong>
+🌙 <strong>Programeur debutant — Créateur de Mods</strong>
 
 </div>
 
