@@ -10,7 +10,7 @@
 
 <div align="center">
   
-🌙 <strong>Programeur debutant — Créateur de Mods</strong>
+🌙 <strong>Programmeur débutant — Créateur de Mods</strong>
 
 </div>
 
