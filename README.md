@@ -39,7 +39,7 @@
 |---|---|---|
 | **Mod Minecraft ELDEN RING** | Bientôt terminé (mais je ne sais pas faire de modèles 3D, donc ça rallonge le développement). | 🌗 |
 | **Site d’achat de bots Discord** | Il ne reste plus qu’à le mettre en ligne. | 🌖 |
-| **Site pour cs2 (les utilitaire)** | Tous en cours de développement. | 🌗 |
+| **Site pour cs2 (les utilitaire)** | cours de développement car grand ambition. | 🌗 |
 
 ---
 
