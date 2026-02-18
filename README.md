@@ -37,8 +37,9 @@
 ## 🕷️ Projets phares
 | 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
-| **Site pour cs2 (les utilitaire)** | cours de développement car grand ambition. | 🌘 |
-| **Mod Minecraft ELDEN RING** | Bientôt terminé (mais je ne sais pas faire de modèles 3D, donc ça rallonge le développement). | 🌗 |
+| **Site + App pour cs2 (les utilitaire)** | cours de développement car grand ambition. | 🌘 |
+| **Mod Minecraft de tout les jeux fromsoftware de type souls like (sauf sekiro)** | Bientôt terminé (mais je ne sais pas faire de modèles 3D, donc ça rallonge le développement car je suis nul en 3D). | 🌗 |
+| **App pour le speed-run elden ring ** | Il ne reste plus qu’à le mettre en ligne et mettre des petit ajoute. | 🌖 |
 | **Site d’achat de bots Discord** | Il ne reste plus qu’à le mettre en ligne. | 🌖 |
 
 ---
