@@ -69,9 +69,9 @@
 
 ## 👁️ Badges
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=d30000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=d30000)
-![JSX](https://img.shields.io/badge/JSX-000000?style=flat-square&logo=react&logoColor=d30000)
-![Node.js](https://img.shields.io/badge/Node-000000?style=flat-square&logo=node.js&logoColor=d30000)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-000000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-000000?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=d30000)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudio&logoColor=d30000)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudio&logoColor=white)
