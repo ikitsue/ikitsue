@@ -58,7 +58,6 @@
 ---
 
 ## 🌐 Liens
-🔗 https://lnk.bio/ikitsue
 
 [![LinkBio](https://img.shields.io/badge/Link.bio-1e1e1e?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
 [![Discord](https://img.shields.io/badge/Discord-1e1e1e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
