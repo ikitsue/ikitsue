@@ -31,9 +31,9 @@
 | Catégorie | Outils |
 |---|---|
 | 🌐 Front-end | HTML • CSS • JS • JSX |
-| ⚙️ Back-end | Python • Node.js |
-| 🛠️ Minecraft | Mods / Scripts / Expérimentations |
-| 🔧 Outils | Git • VSCode |
+| ⚙️ Back-end | Node.js |
+| 🛠️ Minecraft | Mods • Scripts |
+| 🔧 Outils | Git • VSCode • IntelliJ IDEA |
 
 ---
 
