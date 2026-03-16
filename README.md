@@ -13,7 +13,7 @@
 
 <div align="center">
   
-🌙 <strong>Programmeur débutant — Créateur de Mods</strong>
+🌙 <strong>Programmeur débutant</strong>
 
 </div>
 
@@ -50,11 +50,10 @@
 ## ⚰️ Expertise
 | Compétence | Niveau |
 |---|---|
-| 🐍 Python | ⭐⭐⭐✰✰ |
-| ⚡ JavaScript / JSX | ⭐⭐⭐⭐☆ |
-| 🌐 HTML / CSS | ⭐⭐⭐⭐☆ |
-| 🛠️ Modding | ⭐⭐⭐✰✰ |
-| 🌑 Fullstack | ⭐⭐✰✰✰ |
+| 🐍 Python | ⭐⭐☆✰✰ |
+| ⚡ JavaScript / JSX | ⭐⭐☆☆☆ |
+| 🌐 HTML / CSS | ⭐⭐⭐☆☆ |
+| 🛠️ Modding | ⭐☆☆✰✰ |
 
 ---
 
