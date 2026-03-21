@@ -19,7 +19,7 @@
 
 ---
 
-## 🖤 About Me
+## 💙 About Me
 - 🥐  Français — je parle **English** et **Русский**
 - 💻 Je crée des **sites**, des **apps**
 - 🐍 Je code principalement en **JavaScript / JSX**
@@ -27,7 +27,7 @@
 
 ---
 
-## 🩸 Stack Technique
+## 🌑 Stack Technique
 | Catégorie | Outils |
 |---|---|
 | 🌐 Front-end | HTML • CSS • JS • JSX |
@@ -37,7 +37,7 @@
 
 ---
 
-## 🕷️ Projets phares
+## 🌟 Projets phares
 | 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
 | **Site + App pour cs2 (les utilitaire)** | En cours de développement car grandes ambitions. | 🌘 |
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚰️ Expertise
+## 🦅 Expertise
 | Compétence | Niveau |
 |---|---|
 | 🐍 Python | ⭐⭐☆✰✰ |
