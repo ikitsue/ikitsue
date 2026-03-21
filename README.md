@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./assets/gif Kaneki Banner.gif" width="100%" />
+  <img src="./assets/gif Griffith.gif" width="100%" />
   
   <h1>✧･ﾟ: *✧ Ikitsue ✧* :･ﾟ✧</h1>
   <em>「Моя мечта уже запятнана кровью. Я не жалею об этом и не чувствую вины. 
