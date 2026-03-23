@@ -8,7 +8,7 @@
                                                                                               — Berserk - griffith
 </em>
 </div>
-<div>
+<div align="center">
      <a href="https://github.com/ikitsue" target="_blank">
     <img src="https://img.shields.io/badge/Compte%20Principal-ikitsue-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte principal Ikitsue"/>
   </a>
