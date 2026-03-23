@@ -7,6 +7,9 @@
          Но я скорее пожертвую собой, чем буду смотреть, как ещё больше невинных детей умирают во имя моей мечты.」
                                                                                               — Berserk - griffith
 </em>
+    <a href="https://github.com/ikitsue" target="_blank">
+    <img src="https://img.shields.io/badge/Compte%20Principal-ikitsue-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte principal Ikitsue"/>
+  </a>
 </div>
 
 ---
