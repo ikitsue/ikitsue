@@ -15,6 +15,7 @@
 </div>
 <div>
   <a>
+    <a href="./cs.html" target="_blank">
   <button type="button" onclick="window.location.href='./cs.html'">Aller à la page CS</button>   
      </a>
 </div>
