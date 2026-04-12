@@ -9,7 +9,7 @@
 </em>
 </div>
 <div align="center">
-     <a href="/cs.html" target="_blank">
+     <a href="cs.html" target="_blank">
     <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire"/>
   </a>
 </div>
