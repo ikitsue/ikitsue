@@ -9,17 +9,10 @@
 </em>
 </div>
 <div align="center">
-     <a href="https://github.com/ikitsue9211" target="_blank">
-    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue9211-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire Ikitsue9211"/>
+     <a href="./cs.html" target="_blank">
+    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire"/>
   </a>
 </div>
-<div>
-  <a>
-    <a href="./cs.html" target="_blank">
-  <button type="button" onclick="window.location.href='./cs.html'">Aller à la page CS</button>   
-     </a>
-</div>
-
 
 ---
 
