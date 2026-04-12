@@ -14,7 +14,9 @@
   </a>
 </div>
 <div>
+  <a>
   <button type="button" onclick="window.location.href='./cs.html'">Aller à la page CS</button>   
+     </a>
 </div>
 
 
