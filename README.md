@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./assets/gif Kaneki Banner.gif" width="100%" />
+  <img src="./assets/gif Griffith.gif" width="100%" />
   
   <h1>✧･ﾟ: *✧ Ikitsue ✧* :･ﾟ✧</h1>
   <em>「Моя мечта уже запятнана кровью. Я не жалею об этом и не чувствую вины. 
@@ -8,6 +8,12 @@
                                                                                               — Berserk - griffith
 </em>
 </div>
+<div align="center">
+     <a href="https://github.com/ikitsue9211" target="_blank">
+    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue9211-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire Ikitsue9211"/>
+  </a>
+</div>
+
 
 ---
 
