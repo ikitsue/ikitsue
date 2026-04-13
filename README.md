@@ -75,11 +75,11 @@
 
 ## 👁️ Badges
 
-[![Python](https://img.shields.io/badge/Python-5dade2?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-5dade2?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-5dade2?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
-[![JSX](https://img.shields.io/badge/JSX-5dade2?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
-[![Node.js](https://img.shields.io/badge/Node-5dade2?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
-[![Git](https://img.shields.io/badge/Git-5dade2?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-5dade2?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-5dade2?style=for-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-5dade2?style=for-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-5dade2?style=for-square&logo=java&logoColor=white)](https://www.java.com/fr/)
+[![JSX](https://img.shields.io/badge/JSX-5dade2?style=for-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
+[![Node.js](https://img.shields.io/badge/Node-5dade2?style=for-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
+[![Git](https://img.shields.io/badge/Git-5dade2?style=for-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-5dade2?style=for-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
 
